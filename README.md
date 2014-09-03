@@ -20,7 +20,8 @@ Para que la aplicacion angular encuentre el js, incluirlo en index.html
 El modulo depende de [grunt-angular-service](https://github.com/obibring/grunt-angular-service) pero actualmente tiene
 un [bug](https://github.com/obibring/grunt-angular-service/issues/5).
 
-El workaround es
+El workaround es:
+
 1. editar `node_modules/angular-shared-modules/package.json` y borrar los `^` de las versiones de las
 dependencias
 2. borrar `node_modules/angular-shared-modules/node_modules`
