@@ -1,7 +1,7 @@
 angular-node-shared-modules
 ===========================
 
-# Tecnica para compartir servicios/objetos entre angularjs y node.s.
+## Tecnica para compartir servicios/objetos entre angularjs y node.j.
 
 Dentro de `shared-modules/app` se encuentran los archivos compartidos entre el Front y el Backend.
 
